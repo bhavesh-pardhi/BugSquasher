@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh-pardhi&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-pardhi" /> </p>
 
-# BugSquasher Bug Bounty Tools 
+# 🪲 BugSquasher Bug Bounty Tools List
 
 > Introducing the one-stop-shop for all your bug bounty needs - a carefully curated list of various bug bounty tools to help you stay ahead of the game in the fast-paced world of cybersecurity, Bug bounty hunter and pentester. Our list includes a wide range of solutions, from vulnerability scanners to exploit frameworks, each tool hand-picked to deliver the best results and help you stay protected. Whether you're a seasoned security expert or just starting out, our list of bug bounty tools is the perfect place to find the tools you need to take your security to the next level. So what are you waiting for? Explore our list today and discover the tools that will help you stay ahead of the curve.
 
@@ -488,4 +488,6 @@ A concise collection of must-have bug bounty tools for all security enthusiasts.
 - [httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
 
 ---
+# Support
+
 <p dir="auto"><a href="https://www.buymeacoffee.com/bhaveshpardhi" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="bhaveshpardhi" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p><br><br>
